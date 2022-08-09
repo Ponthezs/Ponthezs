@@ -6,7 +6,7 @@
 [![CodePan](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://open.spotify.com/user/1h4lqij5t6fzvmhxw5qlpo2yc)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/feliped6v/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Ponthezs&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponthezs&show_icons=true&theme=radical)
 
 ### Tecnologias que uso no meu dia!💻
 
