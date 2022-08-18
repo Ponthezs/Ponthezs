@@ -21,6 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ponthezs&show_icons=true&locale=en" alt="Ponthezs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ponthezs&" alt="Ponthezs" /></p>
-![snake gif](https://github.com/Ponthezs/Ponthezs/blob/output/github-contribution-grid-snake.svg)
-
 
