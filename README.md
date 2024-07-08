@@ -1,4 +1,4 @@
-  <img height=100% src="https://capsule-render.vercel.app/api?type=waving&color=617aa1&height=120&section=header"/>
+  <img height=100% src="https://capsule-render.vercel.app/api?type=waving&color=9ddbca&height=120&section=header"/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Pontes;I'm+18+years+old;I'm+from+Brazil;I+Student+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -42,4 +42,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=617aa1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9ddbca&height=120&section=footer"/>
