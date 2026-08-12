@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/Ponthezs">
-    <img align="center" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ponthezs&show_icons=true&count_private=true&hide_border=true&title_color=9ddbca&icon_color=9ddbca&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Stats" />
-    <img align="center" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ponthezs&layout=compact&hide_border=true&title_color=9ddbca&text_color=c9d1d9&bg_color=0d1117" alt="Top Langs" />
+    <img align="center" width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Ponthezs&show_icons=true&count_private=true&hide_border=true&title_color=9ddbca&icon_color=9ddbca&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Stats" />
+    <img align="center" width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Ponthezs&layout=compact&hide_border=true&title_color=9ddbca&text_color=c9d1d9&bg_color=0d1117" alt="Top Langs" />
   </a>
 </div>
 
